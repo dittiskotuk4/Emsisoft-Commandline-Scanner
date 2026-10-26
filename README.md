@@ -217,4 +217,4 @@ Emsisoft Commandline Scanner is available as a full free version with all featur
 Take action today! Download Emsisoft Commandline Scanner and protect your system with the best command-line antivirus solution available.
 
 ---
-**Last updated:** 2026-10-25 21:36:03 UTC
+**Last updated:** 2026-10-26 00:01:31 UTC
